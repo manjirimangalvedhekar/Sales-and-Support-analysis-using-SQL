@@ -400,6 +400,16 @@ DELIMITER ;
 
 CALL sp_name('C00015');
 
+-- Analysis
+/* 1)The sales trend suggests that the cities with active customers are Chennai, Brisban, and London 
+out of which only Chennai has high-grade customers, with grade 3. Even the percentage of customers with
+grade 3 is only 20%, which can be increased by acquiring more number of high-grade customers from other cities.
+2) Also to increase the total revenue outstanding amount needs to be cleared by the respective agents.
+3) The customer table needs to be updated with the phone number of the customer which can help the agent to connect with them and elevate the 
+customer retention. 
+4) Agents can have a commission if they are prominent in the collection of advance amounts. */
+
+
 
 
 
